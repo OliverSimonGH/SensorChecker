@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component matches the snapshot 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="page-header center"
+  >
+    <h2>
+      Sensor Application
+    </h2>
+  </div>
+  <div
+    className="mb15"
+  >
+    <input
+      aria-label="Search Sensors"
+      className="form-control"
+      onChange={[Function]}
+      placeholder="Search Sensors"
+      type="text"
+    />
+  </div>
+  <table
+    className="table table-hover table-dark"
+  >
+    <thead>
+      <tr>
+        <th
+          colSpan="4"
+          scope="col"
+        >
+          Sensor Data
+        </th>
+      </tr>
+      <tr>
+        <th
+          scope="col"
+        >
+          Index
+        </th>
+        <th
+          scope="col"
+        >
+          Condition
+        </th>
+        <th
+          scope="col"
+        >
+          Street
+        </th>
+        <th
+          scope="col"
+        >
+          Value
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          colSpan="4"
+        >
+          No data available
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

@@ -1,0 +1,18 @@
+.table-green{
+    background-color: green;
+    color: white;
+}
+
+.table-red{
+    background-color: red;
+    color: white;
+}
+
+.center{
+    text-align: center;
+}
+
+.mb15 {
+    margin-bottom: 15px;
+}
+

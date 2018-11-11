@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Title Component matches the snapshot 1`] = `
+<div
+  className="page-header center"
+>
+  <h2>
+    Sensor Application
+  </h2>
+</div>
+`;

@@ -1,0 +1,62 @@
+[
+  {
+    "sensor": "noise",
+    "street": "ABC Street",
+    "value":"32"
+  },
+  {
+    "sensor":"light",
+    "street": "ABC Street",
+    "value":"1150"
+  },
+  {
+    "sensor":"air quality",
+    "street": "ABC Street",
+    "value":"15"
+  },
+  {
+    "sensor": "noise",
+    "street": "Private Dr Street",
+    "value":"1"
+  },
+  {
+    "sensor":"light",
+    "street": "Private Dr Street",
+    "value":"999"
+  },
+  {
+    "sensor":"air quality",
+    "street": "Private Dr Street",
+    "value":"5"
+  },
+  {
+    "sensor": "noise",
+    "street": "New Found St",
+    "value":"45"
+  },
+  {
+    "sensor":"light",
+    "street": "New Found St",
+    "value":"450"
+  },
+  {
+    "sensor":"air quality",
+    "street": "New Found St",
+    "value":"3"
+  },
+  {
+    "sensor": "noise",
+    "street": "Disnep St",
+    "value":"12"
+  },
+  {
+    "sensor":"light",
+    "street": "Disnep St",
+    "value":"355"
+  },
+  {
+    "sensor":"air quality",
+    "street": "Disnep St",
+    "value":"4"
+  }
+]
